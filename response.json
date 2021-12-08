@@ -22,7 +22,7 @@
         },
         {
             "type": 100,
-            "ratio": "100",
+            "ratio": "2",
             "interval_time": "9000",
             "interval_enable": "true",
             "margin_top": 300,
