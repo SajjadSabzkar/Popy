@@ -28,10 +28,16 @@
             "margin_top": 100,
             "margin_bottom": 20,
             "items": [{
-                "title": "منو من",
-                "img_url": "https://cdnw.papillonchef.com/2020/09/mahali.jpg",
-                "json_toopen": "{\r\n  \"onclick_type\": 1,\r\n  \"toast\": \"\",\r\n  \"class_name\": \"Ac_Categories\",\r\n  \"extras\": \"string###cpname###غذاهای محلی###string###cpid###58\",\r\n  \"url\": \"\",\r\n  \"app_package\": \"\",\r\n  \"content\": \"\"\r\n}"
-            }]
+                    "title": "غذاهای محلی",
+                    "img_url": "https://cdnw.papillonchef.com/2020/09/mahali.jpg",
+                    "json_toopen": "{\r\n  \"onclick_type\": 1,\r\n  \"toast\": \"\",\r\n  \"class_name\": \"Ac_Categories\",\r\n  \"extras\": \"string###cpname###غذاهای محلی###string###cpid###58\",\r\n  \"url\": \"\",\r\n  \"app_package\": \"\",\r\n  \"content\": \"\"\r\n}"
+                },
+                {
+                    "title": "صفحه ویژه یلدای ۱۴۰۰",
+                    "img_url": "https://cdnw.papillonchef.com/2020/11/yalda99_.jpg",
+                    "json_toopen": "{\n  \"onclick_type\": 1,\n  \"toast\": \"\",\n  \"class_name\": \"Ac_AllTypeList\",\n  \"extras\": \"string###type###215###string###url###https://api.papillonchef.com/310/op/special-items/102###string###title###ویژه شب یلدا\",\n  \"url\": \"\",\n  \"app_package\": \"\",\n  \"content\": \"\"\n}"
+                }
+            ]
         }
             ]
 }
