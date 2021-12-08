@@ -29,7 +29,7 @@
             "margin_bottom": 5,
             "items": [{
                 "title": "منو من",
-                "img_url": "https://picsum.photos/200",
+                "img_url": " https://picsum.photos/200/300?random=1",
                 "json_toopen": "{\r\n  \"onclick_type\": 1,\r\n  \"toast\": \"\",\r\n  \"class_name\": \"Ac_Categories\",\r\n  \"extras\": \"string###cpname###غذاهای محلی###string###cpid###58\",\r\n  \"url\": \"\",\r\n  \"app_package\": \"\",\r\n  \"content\": \"\"\r\n}"
             }]
         },
