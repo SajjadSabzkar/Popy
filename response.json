@@ -6,8 +6,8 @@
             "ratio": "2",
             "interval_time": "9000",
             "interval_enable": "true",
-            "margin_top": 50,
-            "margin_bottom": 20,
+            "margin_top": 0,
+            "margin_bottom": 0,
             "items": [{
                     "title": "غذاهای محلی",
                     "img_url": "https://cdnw.papillonchef.com/2020/09/mahali.jpg",
@@ -22,10 +22,10 @@
         },
         {
             "type": 100,
-            "ratio": "4",
+            "ratio": "100",
             "interval_time": "9000",
             "interval_enable": "true",
-            "margin_top": 100,
+            "margin_top": 200,
             "margin_bottom": 5,
             "items": [{
                 "title": "غذاهای محلی",
