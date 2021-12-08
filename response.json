@@ -25,8 +25,8 @@
             "ratio": "100",
             "interval_time": "9000",
             "interval_enable": "true",
-            "margin_top": 200,
-            "margin_bottom": 5,
+            "margin_top": 300,
+            "margin_bottom": 20,
             "items": [{
                 "title": "منو من",
                 "img_url": " https://picsum.photos/200/300?random=1",
