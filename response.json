@@ -25,7 +25,7 @@
             "ratio": "2",
             "interval_time": "9000",
             "interval_enable": "false",
-            "margin_top": 100,
+            "margin_top": 10,
             "margin_bottom": 20,
             "items": [{
                     "title": "غذاهای محلی",
