@@ -21,23 +21,376 @@
             ]
         },
         {
-            "type": 100,
-            "ratio": "2",
-            "interval_time": "9000",
-            "interval_enable": "false",
+            "type": 101,
             "margin_top": 10,
-            "margin_bottom": 20,
-            "items": [{
-                    "title": "غذاهای محلی",
-                    "img_url": "https://cdnw.papillonchef.com/2020/09/mahali.jpg",
-                    "json_toopen": "{\r\n  \"onclick_type\": 1,\r\n  \"toast\": \"\",\r\n  \"class_name\": \"Ac_Categories\",\r\n  \"extras\": \"string###cpname###غذاهای محلی###string###cpid###58\",\r\n  \"url\": \"\",\r\n  \"app_package\": \"\",\r\n  \"content\": \"\"\r\n}"
+            "margin_bottom": 5,
+            "cats": [{
+                    "id": 60,
+                    "name": "غذای دانشجویی",
+                    "img_url": "https://cdn.papillonchef.com/files/cats/pictures/org/2020/05/22/4555hidinnl2piu9v895007igon1i2pj.jpg",
+                    "type": 1
                 },
                 {
-                    "title": "صفحه ویژه یلدای ۱۴۰۰",
-                    "img_url": "https://cdnw.papillonchef.com/2020/11/yalda99_.jpg",
-                    "json_toopen": "{\n  \"onclick_type\": 1,\n  \"toast\": \"\",\n  \"class_name\": \"Ac_AllTypeList\",\n  \"extras\": \"string###type###215###string###url###https://api.papillonchef.com/310/op/special-items/102###string###title###ویژه شب یلدا\",\n  \"url\": \"\",\n  \"app_package\": \"\",\n  \"content\": \"\"\n}"
+                    "id": 2,
+                    "name": "غذاهای مدرن",
+                    "img_url": "https://cdn.papillonchef.com/files/cats/pictures/org/2020/05/22/vn67mh3gqdcjrmd9l57qg7s5u05a2ltk.jpg",
+                    "type": 0
+                },
+                {
+                    "id": 77,
+                    "name": "عربی",
+                    "img_url": "https://cdn.papillonchef.com/files/cats/pictures/org/2020/05/22/c77.jpg",
+                    "type": 1
+                },
+                {
+                    "id": 52,
+                    "name": "املت وکرپ",
+                    "img_url": "https://cdn.papillonchef.com/files/cats/pictures/org/2020/05/22/m1b74425opqb07742rnp3n70no9su2gv.jpg",
+                    "type": 1
+                },
+                {
+                    "id": 39,
+                    "name": "شربت ها",
+                    "img_url": "https://cdn.papillonchef.com/files/cats/pictures/org/2020/05/22/f99mkfq9ujikdv509i6jhgnpchfs5r6e.jpg",
+                    "type": 1
                 }
             ]
-        }
+        },
+        {
+            "type": 107,
+            "url": "42zmUd6cwCR25KB3",
+            "title": "papionet",
+            "margin_top": 0,
+            "margin_bottom": 0
+        },
+        {
+            "type": 102,
+            "title": "برترین دستورپخت های ماه",
+            "more_json_toopen": "{  \"onclick_type\": 1,  \"toast\": \"\",  \"class_name\": \"Ac_RecipeList_Load_Url\",  \"extras\": \"string###url###https://api.papillonchef.com/310/recipe/last-nth-day/30/@offset###string###title###برترین دستورپخت های ماه###string###type###202\",  \"url\": \"\",  \"app_package\": \"\",  \"content\": \"\"}",
+            "margin_top": 10,
+            "margin_bottom": 10,
+            "recipes": [{
+                    "hid": "5c57db582fb6300b85e0ecbf249b57ca",
+                    "name": "سیب زمینی نودلی",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/08/5c57db582fb6300b85e0ecbf249b57ca9zpgXqaFm5grej1N.jpg",
+                    "comment_num": 44,
+                    "like_num": 1651,
+                    "is_premium": 0,
+                    "approved_date": 1636608601,
+                    "user": {
+                        "name": "فرشته",
+                        "hid": "5554570e2711b1.18635914",
+                        "color": "9b59b6",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/10/07/5554570e2711b1.18635914xPXeoWMY3bHgTJSR.jpg"
+                    }
+                },
+                {
+                    "hid": "2601094a031f0bafe39aa0bbd9f4a64e",
+                    "name": "موچی بستنی",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/18/2601094a031f0bafe39aa0bbd9f4a64eSivrqgJnVKxPuE0B.jpg",
+                    "comment_num": 148,
+                    "like_num": 1626,
+                    "is_premium": 0,
+                    "approved_date": 1637314201,
+                    "user": {
+                        "name": "hadis-soltani",
+                        "hid": "5b6b285c54c6c8.77231464",
+                        "color": "16a085",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/05/14/5b6b285c54c6c8.772314648.jpg"
+                    }
+                },
+                {
+                    "hid": "81c23369f3418392c098f29d2bc06b95",
+                    "name": "بستنی زمستانی و نکات آن",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/17/81c23369f3418392c098f29d2bc06b95C9O99wtK2W4kCrYe.jpg",
+                    "comment_num": 36,
+                    "like_num": 1443,
+                    "is_premium": 0,
+                    "approved_date": 1637299801,
+                    "user": {
+                        "name": "leili.a",
+                        "hid": "57a9afe33ed010.13437617",
+                        "color": "3498db",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/08/07/57a9afe33ed010.134376177Kr8DuDpJT92wZiJ.jpg"
+                    }
+                },
+                {
+                    "hid": "383284d8f91e924bbec03403a2f013eb",
+                    "name": "کیک گردویی دبل چاکلت ",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/06/383284d8f91e924bbec03403a2f013eb0rcinOapU77AP7gv.jpg",
+                    "comment_num": 47,
+                    "like_num": 1225,
+                    "is_premium": 0,
+                    "approved_date": 1637350201,
+                    "user": {
+                        "name": "hadis-soltani",
+                        "hid": "5b6b285c54c6c8.77231464",
+                        "color": "16a085",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/05/14/5b6b285c54c6c8.772314648.jpg"
+                    }
+                },
+                {
+                    "hid": "8981f30d993414b9c41b0d836c39bbc1",
+                    "name": "نان باقلوا ",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/10/30/8981f30d993414b9c41b0d836c39bbc1e7AY3P6zM42qpunb.jpg",
+                    "comment_num": 40,
+                    "like_num": 1213,
+                    "is_premium": 0,
+                    "approved_date": 1638012601,
+                    "user": {
+                        "name": "hadis-soltani",
+                        "hid": "5b6b285c54c6c8.77231464",
+                        "color": "16a085",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/05/14/5b6b285c54c6c8.772314648.jpg"
+                    }
+                },
+                {
+                    "hid": "4678ca3a0971541db599d031c15fcfa2",
+                    "name": "پای کیک سینابون",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/06/4678ca3a0971541db599d031c15fcfa20tgTCMwrNVWlUpOW.jpg",
+                    "comment_num": 86,
+                    "like_num": 1096,
+                    "is_premium": 0,
+                    "approved_date": 1637386202,
+                    "user": {
+                        "name": "roz khosravi",
+                        "hid": "5ff0f65bc62466.08518226",
+                        "color": "9b59b6",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/01/03/5ff0f65bc62466.085182260.jpg"
+                    }
+                },
+                {
+                    "hid": "ece584e2a62bdc655fa980da4d4b367c",
+                    "name": "کیک با مغزی موز و پودینگ",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/03/ece584e2a62bdc655fa980da4d4b367c76UjzG4zIrkqUWyi.jpg",
+                    "comment_num": 29,
+                    "like_num": 1087,
+                    "is_premium": 0,
+                    "approved_date": 1637328601,
+                    "user": {
+                        "name": "leili.a",
+                        "hid": "57a9afe33ed010.13437617",
+                        "color": "3498db",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/08/07/57a9afe33ed010.134376177Kr8DuDpJT92wZiJ.jpg"
+                    }
+                },
+                {
+                    "hid": "af36a51ef0959b4085a9f20e14e41e8f",
+                    "name": "بادمجان کباب تابه ای",
+                    "img_url": "https://cdn.papillonchef.com/files/recipes/pictures/org/2021/11/08/af36a51ef0959b4085a9f20e14e41e8fGC9gepcEhBixZ1bo.jpg",
+                    "comment_num": 72,
+                    "like_num": 1016,
+                    "is_premium": 0,
+                    "approved_date": 1637393401,
+                    "user": {
+                        "name": "نگار",
+                        "hid": "5d9307810be031.56453888",
+                        "color": "7f8c8d",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/10/28/5d9307810be031.56453888hpTo2F3wz85B0nTv.jpg"
+                    }
+                }
             ]
+        },
+        {
+            "type": 103,
+            "title": "برترین ویدیو های هفته",
+            "more_json_toopen": "{  \"onclick_type\": 1,  \"toast\": \"\",  \"class_name\": \"Ac_PictureList_Load_Url\",  \"extras\": \"string###url###https://api.papillonchef.com/310/video/last-nth-day/7/@offset###string###title###برترین ویدیو های هفته###string###type###201\",  \"url\": \"\",  \"app_package\": \"\",  \"content\": \"\"}",
+            "margin_top": 10,
+            "margin_bottom": 10,
+            "pictures": [{
+                    "hid": "0e87a24d1703b44f58edf842f6741df5",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/11/28/0e87a24d1703b44f58edf842f6741df5mBi1bhv1qJZas8rN.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "hadis-soltani",
+                        "hid": "5b6b285c54c6c8.77231464",
+                        "color": "16a085",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/05/14/5b6b285c54c6c8.772314648.jpg"
+                    }
+                },
+                {
+                    "hid": "30b8c47d2aa0d7377db56d1a15e1449b",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/12/01/30b8c47d2aa0d7377db56d1a15e1449bd3rW5iZZI3sHw68a.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "_nafiseh.64",
+                        "hid": "5535f5bf6e1a08.37389531",
+                        "color": "27ae60",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/05/24/5535f5bf6e1a08.37389531209.jpg"
+                    }
+                },
+                {
+                    "hid": "460e408dcd2b0a94ff55035e01c417cc",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/12/01/460e408dcd2b0a94ff55035e01c417ccgnmDQ0mlhN4XmuuH.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "نگار",
+                        "hid": "5d9307810be031.56453888",
+                        "color": "7f8c8d",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/10/28/5d9307810be031.56453888hpTo2F3wz85B0nTv.jpg"
+                    }
+                },
+                {
+                    "hid": "2e52082928e172a6a9352e4ef3fab562",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/11/29/2e52082928e172a6a9352e4ef3fab5629St9Siju0z6cES54.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "آشپزی به سبک سحر",
+                        "hid": "5b3df489aa7a59.58988311",
+                        "color": "e67e22",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/11/14/5b3df489aa7a59.58988311cKN9rnsj6EBXn77Y.jpg"
+                    }
+                },
+                {
+                    "hid": "53ebb42557a11a266cd520194fec39f0",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/11/30/53ebb42557a11a266cd520194fec39f05p6h29VLXwse2AdB.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "مامان سید طاها",
+                        "hid": "5fea5c8709fc60.62206640",
+                        "color": "c44d47",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/12/29/5fea5c8709fc60.622066401.jpg"
+                    }
+                },
+                {
+                    "hid": "630d79f8482b775a393caf62fd3c514c",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/11/29/630d79f8482b775a393caf62fd3c514cAGBY3MIR3UNYqtKA.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "مامان سید طاها",
+                        "hid": "5fea5c8709fc60.62206640",
+                        "color": "c44d47",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/12/29/5fea5c8709fc60.622066401.jpg"
+                    }
+                },
+                {
+                    "hid": "506a649f994dbc81e6b5348f48fd89fe",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/12/04/506a649f994dbc81e6b5348f48fd89feopINupbNEZM6ClOS.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "مامان سید طاها",
+                        "hid": "5fea5c8709fc60.62206640",
+                        "color": "c44d47",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/12/29/5fea5c8709fc60.622066401.jpg"
+                    }
+                },
+                {
+                    "hid": "3c4e4054452a894c1272c4f6d20f95a8",
+                    "url": "https://cdn2.papillonchef.com/v/io/2021/11/29/3c4e4054452a894c1272c4f6d20f95a8m3CyKXZvbL1tDAMc.jpg",
+                    "media": 2,
+                    "user": {
+                        "name": "سمیه دهقانپور",
+                        "hid": "5eb6036d8422c7.11462121",
+                        "color": "c44d47",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/10/19/5eb6036d8422c7.11462121xS38mZBRRQcbtXy0.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "type": 103,
+            "title": "برترین عکس های روز",
+            "more_json_toopen": "{  \"onclick_type\": 1,  \"toast\": \"\",  \"class_name\": \"Ac_PictureList_Load_Url\",  \"extras\": \"string###url###https://api.papillonchef.com/310/pic/last-nth-day/1/@offset###string###title###برترین عکس های روز###string###type###201\",  \"url\": \"\",  \"app_package\": \"\",  \"content\": \"\"}",
+            "margin_top": 10,
+            "margin_bottom": 10,
+            "pictures": [{
+                    "hid": "da2f5872447f149fa8fdb8bd73c5340d",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/05/da2f5872447f149fa8fdb8bd73c5340dhw0RoNKOoZ6je4qu0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "سَـــــلویٰ",
+                        "hid": "5fe0529cc78018.68087259",
+                        "color": "c44d47",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/10/08/5fe0529cc78018.68087259CDRsVOYJGczbgvrJ.jpg"
+                    }
+                },
+                {
+                    "hid": "76358a335493e58466367d1d301e215a",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/06/76358a335493e58466367d1d301e215aUujxmBwk0ic8GNTe0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "ایران برومند",
+                        "hid": "5642177a203963.67823846",
+                        "color": "27ae60",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2020/07/31/5642177a203963.6782384629.jpg"
+                    }
+                },
+                {
+                    "hid": "8a1d34597e953082399e0d20d4ecb362",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/06/8a1d34597e953082399e0d20d4ecb362PZSuyzSuxhRO7Fco0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "leili.a",
+                        "hid": "57a9afe33ed010.13437617",
+                        "color": "3498db",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/08/07/57a9afe33ed010.134376177Kr8DuDpJT92wZiJ.jpg"
+                    }
+                },
+                {
+                    "hid": "bd3feeb48310bfbabda8d507f8dce9c8",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/06/bd3feeb48310bfbabda8d507f8dce9c8eiDOFXzbBQtFaBHN0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "نگار",
+                        "hid": "5d9307810be031.56453888",
+                        "color": "7f8c8d",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/10/28/5d9307810be031.56453888hpTo2F3wz85B0nTv.jpg"
+                    }
+                },
+                {
+                    "hid": "d0d251e0d1fb12a4ed930e43dddd3dd1",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/06/d0d251e0d1fb12a4ed930e43dddd3dd1N76v3ZSEyXGNuMGi0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "مامان پریاورضا",
+                        "hid": "5656181a3ae161.91233849",
+                        "color": "3498db",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/11/24/5656181a3ae161.91233849Tk0haAwbLI9OWhRl.jpg"
+                    }
+                },
+                {
+                    "hid": "44408fd19dd611f5013b43738a10b391",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/05/44408fd19dd611f5013b43738a10b391ezSFiXml0JVeSKbc0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "zaynab.abdole",
+                        "hid": "59885349ae8657.32003813",
+                        "color": "3498db",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/06/13/59885349ae8657.320038130MCuUOS85i9X1FFj.jpg"
+                    }
+                },
+                {
+                    "hid": "9bbfbf50ea653324bbd5f351fddae3fd",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/06/9bbfbf50ea653324bbd5f351fddae3fd7VLK7P2bxXfNuJM60.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "farah.foroughi",
+                        "hid": "56b311b110e672.28581558",
+                        "color": "aa0b60",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2016/11/22/56b311b110e672.285815581.jpg"
+                    }
+                },
+                {
+                    "hid": "4ec743dbda4ce2b5b550884e7b907801",
+                    "url": "https://cdn2.papillonchef.com/p/o/2021/12/05/4ec743dbda4ce2b5b550884e7b907801QL8CxWSzS25OlbGu0.jpg",
+                    "media": 1,
+                    "user": {
+                        "name": "آشپزی با ساجده",
+                        "hid": "5f9b01ce3aebf9.74151274",
+                        "color": "c44d47",
+                        "pic_url": "https://cdn.papillonchef.com/files/users/images/thumb/2021/04/20/5f9b01ce3aebf9.74151274cbWQYZ8Yiu7rjgBG.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "type": 104,
+            "title": "ersali_pics",
+            "ratio": "2.4",
+            "img_url": "https://cdnw.papillonchef.com/2017/12/ersali.jpg",
+            "json_toopen": "{\n  \"onclick_type\": 11,\n  \"toast\": \"\",\n  \"class_name\": \"\",\n  \"extras\": \"\",\n  \"url\": \"1\",\n  \"app_package\": \"\",\n  \"content\": \"\"\n}",
+            "margin_top": 0,
+            "margin_bottom": 10
+        }
+    ]
 }
